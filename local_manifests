@@ -5,7 +5,8 @@
   <remote name="sifat" fetch="https://github.com/sksifat-4" />
   <remote name="frost-testzone" fetch="https://github.com/frost-testzone" />
   <remote name="LineageOS" fetch="https://github.com/LineageOS/" />
-  
+  <remote name="github" fetch="https://github.com/" />
+
   <!-- Device Tree -->
   <project path="device/xiaomi/violet" name="device_xiaomi_violet" remote="sifat" revision="crdroid" />
 
@@ -22,8 +23,6 @@
   <project path="vendor/oneplus/dolby" name="vendor_oneplus_dolby" remote="frost-testzone" revision="main" />
 
   <!-- Anx Camera -->
-  <project name="begonia-crdroid/android_packages_apps_ANXCamera"
-         path="packages/apps/ANXCamera"
-         remote="github"
-         revision="12.1" />
+  <project path="packages/apps/ANXCamera" name="begonia-crdroid/android_packages_apps_ANXCamera" remote="github" revision="12.1" />
+         
 </manifest>
