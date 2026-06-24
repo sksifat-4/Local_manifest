@@ -2,5 +2,5 @@
 <p align="center" id="description">Local_Manifests for Project Clover </p>
 
 ```
-git clone https://github.com/achu137/local_manifests.git -b infinity .repo/local_manifests
+git clone https://github.com/sksifat-4/Local_manifest.git -b crdroid .repo/local_manifests
 ```
