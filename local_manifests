@@ -21,8 +21,5 @@
 
   <!-- BCR -->
   <project path="vendor/oneplus/dolby" name="vendor_oneplus_dolby" remote="frost-testzone" revision="main" />
-
-  <!-- Anx Camera -->
-  <project path="packages/apps/ANXCamera" name="begonia-crdroid/android_packages_apps_ANXCamera" remote="github" revision="12.1" />
-         
+  
 </manifest>
